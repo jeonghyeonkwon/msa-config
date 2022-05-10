@@ -1,0 +1,4 @@
+token:
+  expriation_time: 86400000
+  secret: msa_test_token_dev
+
